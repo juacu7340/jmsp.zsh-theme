@@ -8,7 +8,8 @@ and replaced the lambda symbol with the hostname, and now I still have a minimal
 theme, plus I know in what machine I'm currently in.
 
 The design matches the parameters for commands like rsync also, so I can just copy
-the prompt and use as parameter for that.
+the prompt and use as parameter for that. (assuming you have SSH configurations where
+the hostnames match the hostnames in the configuration file :) )
 
 Here is a preview of the theme in action:
 
