@@ -13,5 +13,4 @@ the hostnames match the hostnames in the configuration file :) )
 
 Here is a preview of the theme in action:
 
-![Screenshot_20250422_112303](https://github.com/user-attachments/assets/666a7cc6-f6be-4aef-b49d-d86818ce7d5f)
-
+![Screenshot_20250422_113235](https://github.com/user-attachments/assets/6ae3592d-701e-4595-9f9e-006c90c8e587)
